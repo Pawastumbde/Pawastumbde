@@ -14,14 +14,22 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![Bots](https://img.shields.io/badge/Bots-00C853?style=for-the-badge&logo=chatbot&logoColor=white)
 
 ## 🎥 Anime & Favorites
 - **Favorite Genres**: Action, Drama, Sci-Fi, Adventure
 - **Top Animes**:
   - Serial Experiments Lain
   - Neon Genesis Evangelion
+  - Ghost in the Shell
+  - Attack on Titan
 - **Favorite Characters**: 
   <img src="https://github.com/<your-username>/<your-username>/blob/main/favorites.png" alt="Favorite Characters" width="500px" />
+
+<p align="center">
+  <img src="https://github.com/<your-username>/<your-username>/blob/main/anime-banner.png" alt="Anime Banner" width="800px" />
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
