@@ -7,7 +7,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+
+- MIT License
+Copyright (c) 2020-present lowlighter
 
 
 
