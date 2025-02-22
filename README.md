@@ -1,50 +1,33 @@
 # Hi there, I'm [Your Name]! 👋
 
+<!-- Animated Avatar -->
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/anime-avatar.gif" align="right" width="200" />
+
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet)
+
+## 🐍 Contribution Snake
+![Contribution Snake](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
 
 ## 🎌 Favorite Animes
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.myanimelist.net/images/anime/1208/94745.jpg" width="200" />
-      <br />
-      <strong>Fullmetal Alchemist: Brotherhood</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.myanimelist.net/images/anime/1337/99013.jpg" width="200" />
-      <br />
-      <strong>Steins;Gate</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" width="200" />
-      <br />
-      <strong>Attack on Titan</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.myanimelist.net/images/anime/1503/116785.jpg" width="200" />
-      <br />
-      <strong>Jujutsu Kaisen</strong>
-    </td>
-  </tr>
-</table>
+<!-- Keep existing anime table -->
 
 ## 🛠️ Tech Stack
-
-### Artificial Intelligence
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Bot Development
-![Discord.py](https://img.shields.io/badge/Discord%20Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=fastapi&logoColor=white)
+<!-- Keep existing tech stack -->
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+<!-- Add this ABump snake -->
+<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.gif" width="800" />
+
+<!-- Animated Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true" width="800" />
+
+</div>
